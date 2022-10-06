@@ -33,3 +33,6 @@ Q
 
 ## Lesson 2 (branch)
 
+1. git branch -  отображает список имеющихся веток
+
+2. git branch + new name branch - создание новой ветки
