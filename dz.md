@@ -42,3 +42,6 @@ Q
 3. git checkout + name branch - переход с  ветки на ветку
 
 объединение веток: git merge
+4. git merge + name branch - слияние веток между собой
+
+5. git branch -d + name branch - удаляет ненужную ветку
