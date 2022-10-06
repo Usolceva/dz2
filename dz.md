@@ -36,3 +36,5 @@ Q
 1. git branch -  отображает список имеющихся веток
 
 2. git branch + new name branch - создание новой ветки
+
+3. git checkout + name branch - переход с  ветки на ветку
