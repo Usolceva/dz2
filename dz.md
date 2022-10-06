@@ -30,3 +30,6 @@ Ctrl+S
 
 # Выход из журнала:
 Q
+
+## Lesson 2 (branch)
+
