@@ -40,3 +40,5 @@ Q
 2. git branch + new name branch - создание новой ветки
 
 3. git checkout + name branch - переход с  ветки на ветку
+
+4. git merge + name branch - слияние веток между собой
